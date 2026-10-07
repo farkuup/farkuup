@@ -13,7 +13,7 @@ Je cherche une **alternance** en robotique, électronique ou systèmes embarqué
 - 🌱 **[Le Ventileau](https://farkuup.github.io/clim.html)** : clim écologique adiabatique sur Arduino, Olympiades de SI
 - 🗣️ **Jarvis sur iPhone** : mon assistant vocal avec les Raccourcis iOS et l'API Gemini
 - 📝 **Sonote** : une application de notes en C
-- 🧠 **[Jarvis OS](https://github.com/Grominet95/jarvis-OS)** : dépannage et collaboration avec son auteur, @Grominet95
+- 🧠 **[Jarvis OS](https://github.com/Grominet95/jarvis-OS)** : test de cet assistant open source de @Grominet95 et signalé 6 pannes à son auteur
 
 ### 🧰 Ce que j'utilise
 
