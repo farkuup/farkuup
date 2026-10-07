@@ -1,6 +1,6 @@
-## Salut, moi c'est Soméan 👋
+## Hi, i'm Soméan 👋
 
-Étudiant ingénieur à **Sup Galilée** (CP2I2). Je construis des machines depuis 2013 : d'abord dans un jeu vidéo, puis avec de vrais moteurs, des LED et du code.
+Étudiant ingénieur à **Sup Galilée**. Je construis des machines depuis 2013 : d'abord dans un jeu vidéo, puis avec de vrais moteurs, des LED et du code.
 Je cherche une **alternance** en robotique, électronique ou systèmes embarqués.
 
 🌐 Mon portfolio : **[farkuup.github.io](https://farkuup.github.io)**
