@@ -17,7 +17,7 @@ Je cherche une **alternance** en robotique, électronique ou systèmes embarqué
 
 ### 🧰 Ce que j'utilise
 
-Arduino · Raspberry Pi · C / C++ · Linux · OpenSCAD · Impression 3D · Découpe laser
+Arduino · Raspberry Pi · C / C++ · Linux · OpenSCAD · Impression 3D · Découpe laser · SolidWorks
 
 ### 📫 Me contacter
 
