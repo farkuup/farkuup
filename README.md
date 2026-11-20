@@ -11,7 +11,7 @@ Je cherche une **alternance** en robotique, électronique ou systèmes embarqué
 - 💡 **[Ambilight maison](https://farkuup.github.io/ambilight.html)** : Raspberry Pi + Hyperion + LED APA102, pour 63 € au lieu de 240 € dans le commerce
 - 🤖 **[Robot chez Pixel Robotics](https://farkuup.github.io/pixel.html)** : conçu, imprimé en 3D, câblé et programmé en 5 jours, piloté en Bluetooth
 - 🌱 **[Le Ventileau](https://farkuup.github.io/clim.html)** : clim écologique adiabatique sur Arduino, Olympiades de SI
-- 🗣️ **Jarvis sur iPhone** : mon assistant vocal avec les Raccourcis iOS et l'API Gemini
+- 🗣️ **[Jarvis sur iPhone](https://farkuup.github.io/jarvis-iphone.html)** : mon assistant vocal avec les Raccourcis iOS et l'API Gemini
 - 📝 **[Sonote](https://farkuup.github.io/sonote.html)** : une application de notes en C
 - 🧠 **[Jarvis OS](https://github.com/Grominet95/jarvis-OS)** : test de cet assistant open source de @Grominet95 et signalé 6 pannes à son auteur
 
